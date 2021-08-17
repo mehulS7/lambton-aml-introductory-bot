@@ -1,0 +1,168 @@
+{"intents":  [
+  {"tag":  "greetings",
+    "patterns": ["hello", "hai", "hey", "hi", "good day", "greetings"],
+    "responses": ["Hello! Welcome to Lambton College", "Hi! Welcome to Lambton College" ]
+  },
+  {
+    "tag": "greetings2",
+    "patterns": ["hi", "how", "are", "you", "wassup", "doing", "is", "your", "day"],
+    "responses": ["I am good, Thank you for asking. How may I help you?"]
+  },
+  {
+    "tag":  "python",
+    "patterns": ["python course details", "programming", "coding", "python email", "python instructor", "aml 1204", "py course", "teaches py"],
+    "responses": ["Course:AML-1204 Python Programming In Canada, Instructor: Simrandeep Kaur, Email: Simrandeep.Kaur@cestarcollege.com" ]
+  },
+  {
+    "tag":  "python syllabus",
+    "patterns": ["python syllabus", "programming syllabus", "coding syllabus", "python course syllabus", "aml 1204 Syllabus", "python course outline", "py syllabus"],
+    "responses": ["Download Link: https://drive.google.com/file/d/1YPb2iZbp3TKj6kyMfWTbsOx_YPW1KWgG/view?usp=sharing" ]
+  },
+  {
+    "tag":  "python class link",
+    "patterns": ["python class link", "python adobe connect link", "aml 1204 class link", "py class link", "py class time", "py class day"],
+    "responses": ["Day: Wednesday, Time: 8:00 AM - 12:00 PM, Class Link: https://cestarcollege.adobeconnect.com/wednesday/"]
+  },
+  {
+    "tag":  "data science and machine learning",
+    "patterns": ["data science course details", "machine learning course details", "ml", "data science instructor", "data science email", "ml instructor", "ml email", "aml 1104", "ds course", "teaches ds or data science"],
+    "responses": ["Course:AML-1104 Data Science & Machine Learning in Canada, Instructor: Mohammad Islam, Email: Mohammad.Islam@cestarcollege.com" ]
+  },
+  {
+    "tag":  "data science syllabus",
+    "patterns": ["data science syllabus", "aml 1104 Syllabus", "data science course outline", "ds syllabus"],
+    "responses": ["Download Link: https://drive.google.com/file/d/1ZpV--NCjCehY0CnPbPfd_9J1Mx4pZKzp/view?usp=sharing" ]
+  },
+  {
+    "tag":  "data science class link",
+    "patterns": ["data science class", "link", "data science adobe connect link", "aml 1104 class link", "ds class link", "ds class time", "ds class day"],
+    "responses": ["Day: Saturday, Time: 8:00 AM - 12:00 PM, Class Link: Please refers to Professor's latest Email"]
+  },
+  {
+    "tag": "assignments",
+    "patterns": ["pending assignments", "due assignments", "homework"],
+    "responses": ["Due Assignments"]
+  },
+  {
+    "tag": "today post",
+    "patterns": ["today's post", "latest updates", "latest news", "news", "site news"],
+    "responses": ["Site News"]
+  },
+  {
+    "tag": "bye",
+    "patterns": ["bye", "thank you", "see you", "thanks", "have a great day"],
+    "responses": ["Thank you. Have a good day"]
+  },
+  {
+    "tag":  "AI",
+    "patterns": ["ai details", "artificial intelligence course", "ai", "ai email", "AI instructor", "aml 1403"],
+    "responses": ["Course:AML-1403 Artificial Intelligence - A Canadian Perspective, Instructor: Farzad Amirjavid, Email: Farzad.Amirjavid@cestarcollege.com" ]
+  },
+  {
+    "tag":  "AI syllabus",
+    "patterns": ["ai syllabus", "artificial intelligence syllabus", "aml 1403 Syllabus", "ai course outline"],
+    "responses": ["Download Link: https://drive.google.com/file/d/1dVMl3iMfeZ_ERn_5TqWyjjI7DOBJ7Oms/view?usp=sharing" ]
+  },
+  {
+    "tag":  "AI class link",
+    "patterns": ["artificial intelligence class link", "ai adobe connect link", "aml 1403 class link"],
+    "responses": ["Day: Tuesday, Time: 7:00 AM - 10:00 AM, Class Link: https://cestarcollege.adobeconnect.com/rjnancnqtbhz/"]
+  },
+  {
+    "tag":  "big data",
+    "patterns": ["big data course details", "big data", "big data email", "big data instructor", "cbd 2214", "cbd course"],
+    "responses": ["Course:CBD-2214 Big Data Fundamental Data Storage Networking, Instructor: Aruna Dorai, Email: Aruna.Dorai@cestarcollege.com" ]
+  },
+  {
+    "tag":  "big data syllabus",
+    "patterns": ["big data syllabus", "cbd 2214 syllabus", "big data course outline"],
+    "responses": ["Download Link: https://drive.google.com/file/d/1fqoJ_cHZ5bjSm_YSu8l_bWUyIESoB4rj/view?usp=sharing" ]
+  },
+  {
+    "tag":  "big data class link",
+    "patterns": ["big data class link", "big data adobe connect link", "cbd 2214 class link", "cbd"],
+    "responses": ["Day: Thursday, Time: 8:00 AM - 12:00 PM, Class Link: https://cestarcollege.adobeconnect.com/thursday8am/"]
+  },
+  {
+    "tag":  "professional communication",
+    "patterns": ["professional communications details", "com 3013 course details", "business communication email", "com 3013 instructor", "com 3013", "com course"],
+    "responses": ["Course:COM-3013 Professional Communications, Instructor: Mac Kyte, Email: Mac.Kyte@cestarcollege.com" ]
+  },
+  {
+    "tag":  "professional communication syllabus",
+    "patterns": ["professional communication syllabus", "business communication syllabus", "com 3013 syllabus", "professional communication course outline"],
+    "responses": ["Download Link: https://drive.google.com/file/d/1abcm2K5f1TSdhnMiL29_FNlwmq01HhIL/view?usp=sharing" ]
+  },
+  {
+    "tag":  "professional communication class link",
+    "patterns": ["professional communication class link","professional communication adobe connect link", "com 3013 class link", "business communication class link"],
+    "responses": ["Day: Monday, Time: 8:00 AM - 11:15 AM, Class Link: https://cestarcollege.adobeconnect.com/rxq7mv85yx7k/"]
+  },
+  {
+    "tag":  "careers in ai and ml",
+    "patterns": ["careers in ai and ml course details", "aml 1301 email", "aml 1301 instructor", "aml 1301", "careers in artificial intelligence and machine learning course details", "careers course"],
+    "responses": ["Course:AML-1301 Careers in Artificial Intelligence and Machine Learning Canada, Instructor: Khyati Nagar, Email: Khyati.Nagar@cestarcollege.com" ]
+  },
+  {
+    "tag":  "careers in ai and ml syllabus",
+    "patterns": ["careers in ai and ml syllabus", "aml 1301 syllabus", "careers in artificial intelligence and machine learning course details course outline", "aml 1301 course outline", "careers course outline"],
+    "responses": ["Download Link: https://drive.google.com/file/d/1Zq-3qoMhSHbFybyUzAumgwd2HBYit5yB/view?usp=sharing" ]
+  },
+  {
+    "tag":  "careers in ai and ml class link",
+    "patterns": ["careers in ai and ml class link", "careers in ai and ml adobe connect link", "aml 1301 class link", "careers in artificial intelligence and machine learning class link", "careers class link"],
+    "responses": ["Day: Tuesday, Time: 10:30 AM - 11:30 AM, Class Link: https://cestarcollege.adobeconnect.com/aml1301section2/"]
+  },
+  {
+    "tag":  "lambton college address",
+    "patterns": ["lambton college toronto address", "lambton college location", "lambton college campus", "college address"],
+    "responses": ["265 Yorkland Blvd #400, North York, ON M2J 1S5, Canada" ]
+  },
+  {
+    "tag":  "medical insurance",
+    "patterns": ["medical insurance", "guard me insurance", "health insurance"],
+    "responses": ["The health insurance is provided by Guard.me. Details about Guard.me health insurance can be found at https://guard.me/cestarcollege" ]
+  },
+  {
+    "tag":  "counselling services",
+    "patterns": ["counselling services", "mental health services", "counselling"],
+    "responses": ["Lambton College in Toronto works closely with COSTI (Settlement Services) to refer students to support services offered through the North York Community House (NYCH) Individual and Family Support Program. Please see link: http://www.nych.ca/" ]
+  },
+  {
+    "tag":  "director office contact",
+    "patterns": ["director office contact", "campus director contact", "michael vourakes contact", "director"],
+    "responses": ["Director: Michael Vourakes, Email: Michael.Vourakes@cestarcollege.com, Phone: 416-485-2098 - Ext. 8001" ]
+  },
+  {
+    "tag":  "student services contact",
+    "patterns": ["student services contact", "student services email"],
+    "responses": ["Email: StudentServices@cestarcollege.com" ]
+  },
+  {
+    "tag":  "academic integrity officer",
+    "patterns": ["academic integrity officer contact", "academic integrity officer email", "ana email", "plagiarism", "exam issues"],
+    "responses": ["Academic Integrity Officer: Ana Cassamali, Email: ana.cassamali@cestarcollege.com" ]
+  },
+  {
+    "tag":  "co-op contact",
+    "patterns": ["co-op contact", "co-op officer email", "sandra ornelas email", "job email", "career contact", "career issues contact", "co-op & career services"],
+    "responses": ["Co-op Contact(AIMT Students): Sandra Ornelas, Email: Sandra.Ornelas@cestarcollege.com, General Queries: coop@lambtoncollege.ca, Phone: 519-542-7751 - Ext. 3455" ]
+  },
+  {
+    "tag":  "quarantine info",
+    "patterns": ["quarantine contact", "quarantine email", "quarantine info"],
+    "responses": ["Email:  quarantine@cestarcollege.com" ]
+  },
+  {
+    "tag":  "william contact",
+    "patterns": ["aimt program coordinator", "william pourmajidi email", "william pourmajidi info", "aimt coordinator"],
+    "responses": ["AIMT Program Coordinator: William Pourmajidi, Email:  William.Pourmajidi@cestarcollege.com" ]
+  },
+  {
+    "tag":  "program map",
+    "patterns": ["aimt program map", "aimt course program map", "aiml program map"],
+    "responses": ["Download Link: https://drive.google.com/file/d/1vcPawB6RyshvgbBMpl8Nyula3rlqmj-C/view?usp=sharing" ]
+  }
+]}
+
+

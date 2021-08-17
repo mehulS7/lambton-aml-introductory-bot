@@ -1,0 +1,23 @@
+{
+
+"moodle_page" : "https://moodle.cestarcollege.com/moodle/",
+
+"moodle_login_page" : "https://moodle.cestarcollege.com/moodle/login/index.php",
+
+"moodle_login_page_headers" : {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+},
+
+"moodle_upcoming_page" : "https://moodle.cestarcollege.com/moodle/calendar/view.php?view=upcoming",
+
+"tele_bot_token" : "1863373403:AAFCOytzSze21R9tf9NWk53YayLKiAd_6Zo",
+
+"payload" : {
+    "username" : "816793",
+    "password" : "Heak@1312"
+},
+
+"heroku_app" : "https://lambton-bot.herokuapp.com/"
+
+}
