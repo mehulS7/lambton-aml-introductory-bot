@@ -11,11 +11,11 @@
 
 "moodle_upcoming_page" : "https://moodle.cestarcollege.com/moodle/calendar/view.php?view=upcoming",
 
-"tele_bot_token" : "1865421931:AAEHRZfajJvfD4JLz-Yj6IwPZkKZ8jP1KU0",
+"tele_bot_token" : "",
 
 "payload" : {
-    "username" : "816793",
-    "password" : "Heak@1312"
+    "username" : "",
+    "password" : ""
 },
 
 "heroku_app" : "https://lambton-aml-bot.herokuapp.com/"

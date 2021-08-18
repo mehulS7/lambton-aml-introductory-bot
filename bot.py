@@ -18,7 +18,7 @@ with open('config.json','r') as f:
 def start_command(update,context):
     update.message.reply_text('Hi, Welcome to the Lambton College!\nMy name is Cherry. How may I help you?')
 
-# response command to act on simple messages
+# response command to act on messages
 def response(update,context):
 
     msg = update.message.text
