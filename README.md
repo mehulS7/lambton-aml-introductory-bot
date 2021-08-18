@@ -1,6 +1,9 @@
 # Lambton AIML Introductory Bot
-- **Developers (Anaekh Dheepak, Mehul Sachdeva)**
+- **Developers ([Anaekh Dheepak](https://github.com/anaekhdheepak) , Mehul Sachdeva)**
 
+### Please go to your Telegram app and search for @lookup_bot with name BotMan. Start using...
+
+## Custom Build
 > Stage 1) Create your own Telegram Bot
 - Go to telegram and search for BotFather
 - Run the command /newbot and follow the instructions
