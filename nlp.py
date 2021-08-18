@@ -5,7 +5,7 @@ import numpy as np
 import warnings
 import nltk
 from nltk.stem import WordNetLemmatizer
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 
 warnings.filterwarnings("ignore")
 nltk.download('punkt')
