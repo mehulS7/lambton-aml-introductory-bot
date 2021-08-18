@@ -153,7 +153,7 @@ def main():
     dp.add_handler(CommandHandler('start',start_command))
     dp.add_handler(MessageHandler(Filters.text,response))
     PORT = int(os.environ.get('PORT',8443))
-    updater.start_webhook(listen='0.0.0.0',port=PORT,url_path=config_data['tele_bot_token'],webhook_url= config_data['heroku_app'] + config_data['tele_bot_token'])
+    updater.start_webhook(listen='0.0.0.0',port=PORT,url_path=config_data['tele_bot_token'],webhook_url= 'https://lambton-aml-bot.herokuapp.com/'  + config_data['tele_bot_token'])
     updater.idle()
 
 

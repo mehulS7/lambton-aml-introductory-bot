@@ -5,12 +5,12 @@
   },
   {
     "tag": "greetings2",
-    "patterns": ["hi", "how", "are", "you", "wassup", "doing", "is", "your", "day"],
+    "patterns": ["how are you", "wassup", "doing", "is", "your", "day"],
     "responses": ["I am good, Thank you for asking. How may I help you?"]
   },
   {
     "tag":  "python",
-    "patterns": ["python course details", "programming", "coding", "python email", "python instructor", "aml 1204", "py course", "teaches py"],
+    "patterns": ["python course details", "programming", "coding", "python email", "python instructor", "aml 1204", "py course", "teaches py", "simrandeep kaur", "simrandeep"],
     "responses": ["Course:AML-1204 Python Programming In Canada, Instructor: Simrandeep Kaur, Email: Simrandeep.Kaur@cestarcollege.com" ]
   },
   {
@@ -20,12 +20,12 @@
   },
   {
     "tag":  "python class link",
-    "patterns": ["python class link", "python adobe connect link", "aml 1204 class link", "py class link", "py class time", "py class day"],
+    "patterns": ["python class link", "python adobe connect link", "aml 1204 class link", "py class link", "py class time", "py class day", "simrandeep class"],
     "responses": ["Day: Wednesday, Time: 8:00 AM - 12:00 PM, Class Link: https://cestarcollege.adobeconnect.com/wednesday/"]
   },
   {
     "tag":  "data science and machine learning",
-    "patterns": ["data science course details", "machine learning course details", "ml", "data science instructor", "data science email", "ml instructor", "ml email", "aml 1104", "ds course", "teaches ds or data science"],
+    "patterns": ["data science course details", "machine learning course details", "ml", "data science instructor", "data science email", "ml instructor", "ml email", "aml 1104", "ds course", "teaches ds or data science", "mohammad islam", "mohammad"],
     "responses": ["Course:AML-1104 Data Science & Machine Learning in Canada, Instructor: Mohammad Islam, Email: Mohammad.Islam@cestarcollege.com" ]
   },
   {
@@ -35,7 +35,7 @@
   },
   {
     "tag":  "data science class link",
-    "patterns": ["data science class", "link", "data science adobe connect link", "aml 1104 class link", "ds class link", "ds class time", "ds class day"],
+    "patterns": ["data science class", "link", "data science adobe connect link", "aml 1104 class link", "ds class link", "ds class time", "ds class day", "mohammad class"],
     "responses": ["Day: Saturday, Time: 8:00 AM - 12:00 PM, Class Link: Please refers to Professor's latest Email"]
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "tag":  "AI",
-    "patterns": ["ai details", "artificial intelligence course", "ai", "ai email", "AI instructor", "aml 1403"],
+    "patterns": ["ai details", "artificial intelligence course", "ai", "ai email", "AI instructor", "aml 1403", "farzad amirjavid", "farzad"],
     "responses": ["Course:AML-1403 Artificial Intelligence - A Canadian Perspective, Instructor: Farzad Amirjavid, Email: Farzad.Amirjavid@cestarcollege.com" ]
   },
   {
@@ -65,12 +65,12 @@
   },
   {
     "tag":  "AI class link",
-    "patterns": ["artificial intelligence class link", "ai adobe connect link", "aml 1403 class link"],
+    "patterns": ["artificial intelligence class link", "ai adobe connect link", "aml 1403 class link", "farzad class"],
     "responses": ["Day: Tuesday, Time: 7:00 AM - 10:00 AM, Class Link: https://cestarcollege.adobeconnect.com/rjnancnqtbhz/"]
   },
   {
     "tag":  "big data",
-    "patterns": ["big data course details", "big data", "big data email", "big data instructor", "cbd 2214", "cbd course"],
+    "patterns": ["big data course details", "big data", "big data email", "big data instructor", "cbd 2214", "cbd course", "aruna dorai", "aruna"],
     "responses": ["Course:CBD-2214 Big Data Fundamental Data Storage Networking, Instructor: Aruna Dorai, Email: Aruna.Dorai@cestarcollege.com" ]
   },
   {
@@ -80,12 +80,12 @@
   },
   {
     "tag":  "big data class link",
-    "patterns": ["big data class link", "big data adobe connect link", "cbd 2214 class link", "cbd"],
+    "patterns": ["big data class link", "big data adobe connect link", "cbd 2214 class link", "cbd", "aruna class"],
     "responses": ["Day: Thursday, Time: 8:00 AM - 12:00 PM, Class Link: https://cestarcollege.adobeconnect.com/thursday8am/"]
   },
   {
     "tag":  "professional communication",
-    "patterns": ["professional communications details", "com 3013 course details", "business communication email", "com 3013 instructor", "com 3013", "com course"],
+    "patterns": ["professional communications details", "com 3013 course details", "business communication email", "com 3013 instructor", "com 3013", "com course", "mac kyte", "mac"],
     "responses": ["Course:COM-3013 Professional Communications, Instructor: Mac Kyte, Email: Mac.Kyte@cestarcollege.com" ]
   },
   {
@@ -95,12 +95,12 @@
   },
   {
     "tag":  "professional communication class link",
-    "patterns": ["professional communication class link","professional communication adobe connect link", "com 3013 class link", "business communication class link"],
+    "patterns": ["professional communication class link","professional communication adobe connect link", "com 3013 class link", "business communication class link", "mac class"],
     "responses": ["Day: Monday, Time: 8:00 AM - 11:15 AM, Class Link: https://cestarcollege.adobeconnect.com/rxq7mv85yx7k/"]
   },
   {
     "tag":  "careers in ai and ml",
-    "patterns": ["careers in ai and ml course details", "aml 1301 email", "aml 1301 instructor", "aml 1301", "careers in artificial intelligence and machine learning course details", "careers course"],
+    "patterns": ["careers in ai and ml course details", "aml 1301 email", "aml 1301 instructor", "aml 1301", "careers in artificial intelligence and machine learning course details", "careers course", "khyati nagar","khyati"],
     "responses": ["Course:AML-1301 Careers in Artificial Intelligence and Machine Learning Canada, Instructor: Khyati Nagar, Email: Khyati.Nagar@cestarcollege.com" ]
   },
   {
@@ -110,7 +110,7 @@
   },
   {
     "tag":  "careers in ai and ml class link",
-    "patterns": ["careers in ai and ml class link", "careers in ai and ml adobe connect link", "aml 1301 class link", "careers in artificial intelligence and machine learning class link", "careers class link"],
+    "patterns": ["careers in ai and ml class link", "careers in ai and ml adobe connect link", "aml 1301 class link", "careers in artificial intelligence and machine learning class link", "careers class link", "khyati class"],
     "responses": ["Day: Tuesday, Time: 10:30 AM - 11:30 AM, Class Link: https://cestarcollege.adobeconnect.com/aml1301section2/"]
   },
   {
@@ -155,7 +155,7 @@
   },
   {
     "tag":  "william contact",
-    "patterns": ["aimt program coordinator", "william pourmajidi email", "william pourmajidi info", "aimt coordinator"],
+    "patterns": ["aimt program coordinator", "william pourmajidi email", "william pourmajidi info", "aimt coordinator","william"],
     "responses": ["AIMT Program Coordinator: William Pourmajidi, Email:  William.Pourmajidi@cestarcollege.com" ]
   },
   {
